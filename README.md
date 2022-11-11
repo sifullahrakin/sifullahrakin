@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rakin.sifullah@gmail.com**
 
-- 📄 Know about my experiences [https://meet.google.com/ujo-enqq-ojz](https://meet.google.com/ujo-enqq-ojz)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qFJB44x4cydIm2WUZ2MeXFcEL1Hv1Lgl/view?usp=share_link](https://drive.google.com/file/d/1qFJB44x4cydIm2WUZ2MeXFcEL1Hv1Lgl/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
