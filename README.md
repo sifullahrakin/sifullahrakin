@@ -1,7 +1,7 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://sifullahrakin.io)
 
 <h1 align="center">Hi 👋, I'm Rakin Mohammad Sifullah</h1>
-<h3 align="center">A Computer Science Engineer graduate. I'm from Bangladesh. I completed my graduation from the University of Asia Pacific. I'm passionate and earnest about solving problems and learning and adopting the state of Machine Learning, Web development, Front-end development, Data Structure, and algorithms. I love research-related work. My Thesis topic was "Fraudulent Comment Filtering on Social Media using Machine Learning Techniques." I love reading books. I love to collect books.</h3>
+<h3 align="center">A Computer Science Engineer graduate. I'm from Bangladesh. I completed my graduation from the University of Asia Pacific. I'm passionate and earnest about solving problems and learning and adopting the state of Machine Learning, Web development, Front-end development, Data Structure, and algorithms. I love research-related work. My Thesis topic was "Fraudulent Comment Filtering on Social Media using Machine Learning Techniques." I love reading books. I love to collecting books.</h3>
 
 [![MasterHead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966))](https://sifullahrakin.io)
 
