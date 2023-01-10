@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifullahrakin&label=Profile%20views&color=0e75b6&style=flat" alt="sifullahrakin" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifullahrakin&label=Lines%20ofcodes&color=0e75b6&style=flat" alt="sifullahrakin" /> </p>
+
 ![Lines of code](https://img.shields.io/badge/?username=sifullahrakin&label=Profile%20views&color=0e75b6&style=flat" alt="sifullahrakin")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifullahrakin" alt="sifullahrakin" /></a> </p>
