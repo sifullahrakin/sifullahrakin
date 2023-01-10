@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifullahrakin&label=Profile%20views&color=0e75b6&style=flat" alt="sifullahrakin" /> </p>
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifullahrakin" alt="sifullahrakin" /></a> </p>
 
 - 🔭 I’m currently working on **Fraudulent Comment Filtering on Social Media Using Machine Learning Technique**
