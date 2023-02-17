@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rakin.sifullah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gZKYaPJ3Z3MTv5NYUJBZkwKHk1rpBv_o/view?usp=sharing](https://drive.google.com/file/d/1gZKYaPJ3Z3MTv5NYUJBZkwKHk1rpBv_o/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://docs.google.com/document/d/1CHuCBibFpCXMQ69qMO97867z9xYHbUIn/edit?usp=share_link&ouid=104836361246259303656&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
