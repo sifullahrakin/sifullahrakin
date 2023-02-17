@@ -9,17 +9,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifullahrakin" alt="sifullahrakin" /></a> </p>
 
-- 🔭 I’m currently working on **Fraudulent Comment Filtering on Social Media Using Machine Learning Technique**
+- 🔭 My Thesis Topic was **Fraudulent Comment Filtering on Social Media Using Machine Learning Technique**
+- 🔭 I’m currently working on **Oracle Netsuit Development**
 
-- 🌱 I’m currently learning **Interpretable Machine Learning, Front-end Development**
+- 🌱 I’m currently learning **Software Quality Assurance, Oracle Netsuit Development, Front-end Development**
 
 - 👨‍💻 All of my projects are available at [https://sifullahrakin.github.io/Rakin-Mohammad-Sifullah/](https://sifullahrakin.github.io/Rakin-Mohammad-Sifullah/)
 
-- 💬 Ask me about **Machine Learning, Python, C, HTML, CSS and Bootstrap**
+- 💬 Ask me about **Machine Learning, Python, Java, C, C#, OOP, HTML, CSS and Bootstrap**
 
 - 📫 How to reach me **rakin.sifullah@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://docs.google.com/document/d/1CHuCBibFpCXMQ69qMO97867z9xYHbUIn/edit?usp=share_link&ouid=104836361246259303656&rtpof=true&sd=true)
+- 📄 Know about my Education and Experiences [Curriculum Vitae](https://docs.google.com/document/d/1CHuCBibFpCXMQ69qMO97867z9xYHbUIn/edit?usp=share_link&ouid=104836361246259303656&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
